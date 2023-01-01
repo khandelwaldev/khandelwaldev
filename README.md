@@ -39,7 +39,10 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-![Dev's Github Profile Views](https://komarev.com/ghpvc/?username=khandelwaldev&color=blueviolet)  
+
+<h1> Visitors Count </h1>
+
+<img src="https://count.getloli.com/get/@:khandelwaldev" alt=":name" />
 
 
 
