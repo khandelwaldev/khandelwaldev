@@ -23,7 +23,7 @@ hi, i'm [Dev Khandelwal](https://d3v.pages.dev/), a passionate Full Stack Softwa
 CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK
 
 
-  <img align="right" alt="HI there" src="https://d3v.pages.dev/assets/img/about/its-me.png" width="500" height="auto" />
+  <img align="right" alt="HI there" src="https://d3v.pages.dev/assets/img/about/its-me.png" width="auto" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:slyro.dk@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
