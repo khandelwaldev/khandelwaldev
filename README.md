@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Dev Khandelwal](https://d3v.pages.dev/), a passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
+Hi, i'm [Dev Khandelwal](https://d3v.pages.dev/), a passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
 
 
 
@@ -70,7 +70,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<!--p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khandelwaldev&show_icons=true&theme=gotham" alt="Dev Khandelwal" /-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khandelwaldev&show_icons=true&theme=gotham" alt="Dev Khandelwal" />
 
 
 
