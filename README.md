@@ -1,4 +1,4 @@
-<p align="center"> Hey there, I'm <a href="d3v.pages.dev">Dev Khandelwal</a> <br />
+<p align="center"> Hey there, I'm <a href="https://d3v.pages.dev">Dev Khandelwal</a> <br />
 <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="100" />
   </p>
   
