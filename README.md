@@ -28,3 +28,8 @@
   <br />
   
   <a href="https://instagram.com/devkh.17"><img src="https://img.icons8.com/color/40/instagram-new--v1.png" alt="instagram" /></a> &nbsp; <a href="https://twitter.com/im_slyro"><img src="https://img.icons8.com/color/40/twitter.png" alt="twitter" /></a> &nbsp; <a href="https://linkedin.com/in/devkhandelwal"><img src="https://img.icons8.com/color/40/linkedin.png" alt="linkedin" /></a> &nbsp; <a href="https://discrod.gg/"><img src="https://img.icons8.com/color/40/discord.png" alt="discord" /></a> &nbsp; <a href="mailto:dev-khandelwal@hotmail.com"><img src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/40/external-email-authentication-phatplus-lineal-color-phatplus.png" alt="email" /></a>
+  
+  <br />
+  
+  |<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandelwaldev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwaldev&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
