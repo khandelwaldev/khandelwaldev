@@ -27,7 +27,7 @@
   
   <br />
   
-  <a href="https://instagram.com/devkh.17"><img src="https://img.icons8.com/color/40/instagram-new--v1.png" alt="instagram" /></a> &nbsp; <a href="https://twitter.com/im_slyro"><img src="https://img.icons8.com/color/40/twitter.png" alt="twitter" /></a> &nbsp; <a href="https://linkedin.com/in/devkhandelwal"><img src="https://img.icons8.com/color/40/linkedin.png" alt="linkedin" /></a> &nbsp; <a href="https://discrod.gg/"><img src="https://img.icons8.com/color/40/discord.png" alt="discord" /></a> &nbsp; <a href="mailto:dev-khandelwal@hotmail.com"><img src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/40/external-email-authentication-phatplus-lineal-color-phatplus.png" alt="email" /></a> &nbsp; &nbsp; <a href="https://buymeacoffee.com/devkhandelwal"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200" /></a>
+  <a href="https://instagram.com/_slyro"><img src="https://img.icons8.com/color/40/instagram-new--v1.png" alt="instagram" /></a> &nbsp; <a href="https://twitter.com/im_slyro"><img src="https://img.icons8.com/color/40/twitter.png" alt="twitter" /></a> &nbsp; <a href="https://linkedin.com/in/devkhandelwal"><img src="https://img.icons8.com/color/40/linkedin.png" alt="linkedin" /></a> &nbsp; <a href="https://discrod.gg/"><img src="https://img.icons8.com/color/40/discord.png" alt="discord" /></a> &nbsp; <a href="mailto:dev-khandelwal@hotmail.com"><img src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/40/external-email-authentication-phatplus-lineal-color-phatplus.png" alt="email" /></a> &nbsp; &nbsp; <a href="https://buymeacoffee.com/devkhandelwal"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="200" /></a>
   
   <br />
   
