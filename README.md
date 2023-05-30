@@ -38,6 +38,6 @@
 
 <p align="center">
   
-   <img src="https://count.getloli.com/get/@khandelwaldev" alt="Dev Khandelwal" width="150" />
+   <img src="https://count.getloli.com/get/@khandelwaldev" alt="Dev Khandelwal" width="200" />
   
   </p>
