@@ -38,6 +38,6 @@
 
 <p align="center">
   
-   <img src="https://visitcount.itsvg.in/api?id=khandelwaldev&label=Profile%20Views&color=0&icon=5&pretty=false" width="150" />
+   <img src="https://count.getloli.com/get/@khandelwaldev" alt="Dev Khandelwal" width="150" />
   
   </p>
