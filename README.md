@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="100" />
   </p>
 
-  <p align="center">I'm new to programming and currently i’m learning Web Development😊</p>
+  <p align="center">I'm new to programming and currently i’m learning everything😊</p>
   
  
 <p align="center">
