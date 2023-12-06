@@ -3,7 +3,9 @@
   </h1>
 
   <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwaldev&theme=github_dark"
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwaldev&theme=github_dark" /> <br />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khandelwaldev&theme=dark&hide_border=false" /> <br />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwaldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </div>
  
 <p align="center">
