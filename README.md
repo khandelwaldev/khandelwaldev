@@ -2,7 +2,7 @@
    <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="100" />
 </h1>
 <div>
-   <img src="https://wakatime.com/badge/user/018b4176-6667-471d-85e1-e4b2cc669e93.svg" />
+   <a href="https://wakatime.com/@slyro"><img src="https://wakatime.com/badge/user/018b4176-6667-471d-85e1-e4b2cc669e93.svg" /></a>
 </div>
 <hr >
 <div align="">
