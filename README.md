@@ -2,7 +2,8 @@
    <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="100" />
 </h1>
 <div>
-   <a href="https://wakatime.com/@slyro"><img src="https://wakatime.com/badge/user/018b4176-6667-471d-85e1-e4b2cc669e93.svg" /></a>
+   <a href="https://wakatime.com/@slyro"><img src="https://wakatime.com/badge/user/018b4176-6667-471d-85e1-e4b2cc669e93.svg" /></a> &nbsp;
+   <a href="https://github.cm/khandelwaldev/NowPlayingBadge"><img src="https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify" /></a>
 </div>
 <hr >
 <div align="">
