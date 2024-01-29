@@ -6,7 +6,7 @@
    <a href="https://github.com/khandelwaldev/NowPlayingBadge"><img src="https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify" /></a>
 </div>
 <hr >
-<h3>Hey Try my new project: - <a href="https://innerbeat-web.vercel.app">InnerBeat Web</a></h3>
+<h3>Hey Try my new project: - <a href="https://innerbeat.vercel.app">InnerBeat Web</a></h3>
 <p>Still under development</p>
 <hr />
 <div align="">
