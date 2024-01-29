@@ -6,6 +6,9 @@
    <a href="https://github.com/khandelwaldev/NowPlayingBadge"><img src="https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify" /></a>
 </div>
 <hr >
+<h3>Hey Try my new project: - <a href="https://innerbeat-web.vercel.app">InnerBeat Web</a></h3>
+<p>Still under development</p>
+<hr />
 <div align="">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandelwaldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khandelwaldev&theme=github_dark" />
