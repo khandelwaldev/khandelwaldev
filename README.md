@@ -13,27 +13,7 @@ Learning about web and trying to help out other devs in the process. I love open
 
 ### Skills
 
-<p>
-   <img src="https://img.icons8.com/?size=48&id=108784&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=13441&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=20906&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=20909&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=21278&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png" />
-   <img src="https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png" />
-   <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" />
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-48.png" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-1-226034.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/svelte-9305893-7694092.png?f=webp&w=48" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-3251603-2724650.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-android-studio-3251591-2724643.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-raspberrypi-3521665-2945109.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-blender-3521310-2944729.png?f=webp&w=40" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-google-cloud-2038785-1721675.png?f=webp&w=40" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwindcss,python,kotlin,react,nextjs,nuxtjs,svelte,nodejs,git,vscode,androidstudio,firebase,supabase,googlecloud,raspberrypi,blender" />
 
 ### Badges
 
