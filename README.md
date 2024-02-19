@@ -7,7 +7,7 @@ Learning about web and trying to help out other devs in the process. I love open
 - 🌍  I'm based in Mumbai, India
 - 🖥️  See my portfolio at [slyro.vercel.app](http://slyro.vercel.app)
 - ✉️  You can contact me at [im.slyro17@gmail.com](mailto:im.slyro17@gmail.com)
-- 🚀  I'm currently working on [InnerBeat](http://innerbeat.vercel.app)
+- 🚀  I'm currently working on my Mental Health
 - 🧠  I'm learning Kotlin
 - ⚡  I'm secretly Batman... but don't tell anyone
 
