@@ -41,6 +41,10 @@ Stay linked across the cosmic expanse:
 
 Thanks for stopping by! Let's code together! 🚀
 
+<a href="https://wakatime.com/@slyro">
+<img src="https://wakatime.com/badge/user/018b4176-6667-471d-85e1-e4b2cc669e93.svg" />
+</a>
+
 <div align="center">
    <img src="https://count.getloli.com/get/@khandelwaldev" alt="Dev Khandelwal" width="200" />
 </div>
