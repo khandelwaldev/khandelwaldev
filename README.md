@@ -35,8 +35,8 @@ Embark on a journey through my constellation of skills:
 
 Stay linked across the cosmic expanse:
 
-- 🌌 **Instagram:** [@i.slyro](https://instagram.com/i.slyro)
-- 🌌 **Twitter:** [New on the platform](https://twitter.com/5lyr0)
+- 🌌 **Instagram:** [@_dkk17](https://instagram.com/_dkk17)
+- 🌌 **Twitter:** [New on the platform](https://twitter.com/_Devv17)
 - 🌌 **Website/Blog:** [Blogs](https://slyro.vercel.app/blog)
 
 Thanks for stopping by! Let's code together! 🚀
